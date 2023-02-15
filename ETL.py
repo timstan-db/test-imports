@@ -7,7 +7,7 @@ for path in sys.path:
 # COMMAND ----------
 
 import mylibrary
-my_function()
+mylibrary.my_function()
 
 # COMMAND ----------
 
